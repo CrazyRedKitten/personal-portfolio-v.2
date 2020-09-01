@@ -1,2 +1,2 @@
-# personal-portfolio-v.2
+# Personal Portfolio Website - Version 2 
 The version 2 of my personal portfolio website.
