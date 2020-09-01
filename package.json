@@ -1,0 +1,9 @@
+{
+  "name": "personal-portfolio-v.2",
+  "version": "1.0.0",
+  "description": "Personal portfolio website version 2.0.",
+  "main": "index.js",
+  "repository": "https://github.com/CrazyRedKitten/personal-portfolio-v.2.git",
+  "author": "Aleksandr Shchilkin <crazyredkitten@icloud.com>",
+  "license": "MIT"
+}
